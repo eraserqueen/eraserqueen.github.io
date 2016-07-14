@@ -7,7 +7,7 @@
 
 # Site settings
 title: eraserqueen's brain dump
-email: rolin.dominique+github@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Posts about dev things I keep forgetting and re-learning again.
 baseurl: "" # the subpath of your site, e.g. /blog
