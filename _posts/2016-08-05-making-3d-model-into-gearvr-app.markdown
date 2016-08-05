@@ -5,8 +5,6 @@ date:   2016-08-05 10:30 +1000
 categories: unity vr
 ---
 
-Making a 3d model into a Gear VR app
----
 In this case we wanted to turn a 3d architecture model into a VR experience.
 
 Get your 3d model ready
